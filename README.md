@@ -1,6 +1,4 @@
-Certainly! Here's the revised response with the GitHub stats, skills, and other details retained:
-
-# Hi there, I'm Ciprian! 👋
+# Hi there, I'm Ciprian 🐻! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/ursuciprian?style=social)](https://github.com/ursuciprian)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cipursu?style=social)](https://twitter.com/cipursu)
