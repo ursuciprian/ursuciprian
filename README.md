@@ -1,8 +1,8 @@
 # Ciprian Ursu 🐻
 
-DevOps engineer and solutions architect. I build cloud infrastructure, automate operations, and work on the security and observability needed to keep it running.
+Cloud engineer and solutions architect in financial technology. I build cloud infrastructure, automate operations, and work on the security, networking, and observability needed to keep it running.
 
-Lately, much of my time goes into running large language models locally, measuring how they behave under load, and building tools for day-to-day work with coding agents.
+I'm also involved in GenAI projects, from planning and deployment to serving and tuning open-weight models. I optimize prompt processing (PP), token generation (TG), and concurrency so shared inference services can support multiple agents and teams.
 
 ## Current work
 
