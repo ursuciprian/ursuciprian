@@ -37,4 +37,4 @@ I'm also building BenchTTY, a terminal UI for inference benchmarks and GPU telem
 
 Happy to compare notes on cloud platforms, model serving, or something you've built.
 
-[LinkedIn](https://www.linkedin.com/in/ursuciprian/) · [X](https://twitter.com/cipursu)
+[LinkedIn](https://www.linkedin.com/in/ciprian-ursu) · [X](https://twitter.com/cipursu)
